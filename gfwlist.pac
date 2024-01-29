@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 127.0.0.1:10808; SOCKS 127.0.0.1:2080; DIRECT;';
+var proxy = 'SOCKS5 127.0.0.1:10808; SOCKS 127.0.0.1:2080; SOCKS 127.0.0.1:2080; DIRECT;';
 var rules = [
     [
         [],
@@ -5946,7 +5946,6 @@ var rules = [
             "zacebook.com",
             "zalmos.com",
             "zannel.com",
-            "zaobao.com",
             "zaobao.com.sg",
             "zaozon.com",
             "zapto.org",
