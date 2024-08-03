@@ -6,7 +6,6 @@ var rules = [
     ],
     [
         [
-            !mylist
             "copilot.microsoft.com",
             "www.coze.com",
             
