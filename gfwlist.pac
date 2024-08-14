@@ -8,6 +8,7 @@ var rules = [
         [
             "copilot.microsoft.com",
             "www.coze.com",
+            "hb2.privatecustom.cc",
             
             "aftygh.gov.tw",
             "aide.gov.tw",
